@@ -35,9 +35,8 @@ Die Reisekosten zwischen zwei Standorten ergeben sich aus einer unternehmensinte
 
 Für zwei Standorte \( i \) und \( j \) mit den Koordinaten \( (x_i, y_i) \) und \( (x_j, y_j) \) gelten die Kosten:
 
-\[
-w(i,j) = x_i \cdot x_j + y_i \cdot y_j + 15
-\]
+![kostenfunktion.png](kostenfunktion.png)
+
 
 ---
 
