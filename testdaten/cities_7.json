@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Berlin",
+    "x": 1,
+    "y": 3
+  },
+  {
+    "name": "Paris",
+    "x": 2,
+    "y": -1
+  },
+  {
+    "name": "Madrid",
+    "x": -2,
+    "y": 4
+  },
+  {
+    "name": "Rome",
+    "x": 0,
+    "y": -3
+  },
+  {
+    "name": "London",
+    "x": -3,
+    "y": -2
+  },
+  {
+    "name": "Vienna",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "name": "Prague",
+    "x": -1,
+    "y": 0
+  }
+]
