@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Berlin",
+    "x": 12,
+    "y": 7
+  },
+  {
+    "name": "Paris",
+    "x": 5,
+    "y": 14
+  },
+  {
+    "name": "Madrid",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "name": "Rome",
+    "x": 8,
+    "y": 2
+  },
+  {
+    "name": "London",
+    "x": 10,
+    "y": 11
+  },
+  {
+    "name": "Vienna",
+    "x": 6,
+    "y": 4
+  },
+  {
+    "name": "Prague",
+    "x": 1,
+    "y": 13
+  },
+  {
+    "name": "Budapest",
+    "x": 9,
+    "y": 5
+  },
+  {
+    "name": "Warsaw",
+    "x": 2,
+    "y": 8
+  },
+  {
+    "name": "Zurich",
+    "x": 14,
+    "y": 3
+  }
+]
