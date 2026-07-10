@@ -31,7 +31,7 @@ Jeder Standort ist durch Koordinaten in einem zweidimensionalen Raum beschrieben
 
 ## Kostenmodell
 
-Die Reisekosten zwischen zwei Standorten ergeben sich aus einer unternehmensinternen Bewertungsfunktion, die verschiedene Faktoren wie Entfernung, Infrastruktur und vertragliche Rahmenbedingungen abstrahiert.
+Die Reisekosten zwischen zwei verschiedenen Standorten ergeben sich aus einer unternehmensinternen Bewertungsfunktion, die verschiedene Faktoren wie Entfernung, Infrastruktur und vertragliche Rahmenbedingungen abstrahiert.
 
 Für zwei unterschiedliche Standorte \( i \) und \( j \) mit den Koordinaten \( (x<sub>i</sub>, y<sub>i</sub>) \) und \( (x<sub>j</sub>, y<sub>j</sub>) \) gelten die Kosten:
 
