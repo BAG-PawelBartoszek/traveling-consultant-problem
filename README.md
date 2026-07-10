@@ -17,15 +17,15 @@ Ziel ist es, eine Route zu bestimmen, die alle Standorte genau einmal besucht un
 
 Jeder Standort ist durch Koordinaten in einem zweidimensionalen Raum beschrieben:
 
-| Standort | x  | y  |
-|----------|----|----|
-| A        | 1  | 3  |
-| B        | 2  | -1 |
-| C        | -2 | 4  |
-| D        | 0  | -3 |
-| E        | -3 | -2 |
-| F        | 4  | 1  |
-| G        | -1 | 0  |
+| Standort   | x  | y  |
+|------------|----|----|
+| Lünen      | 1  | 3  |
+| Dortmund   | 2  | -1 |
+| Münster    | -2 | 4  |
+| Hamburg    | 0  | -3 |
+| München    | -3 | -2 |
+| Düsseldorf | 4  | 1  |
+| Wuppertal  | -1 | 0  |
 
 ---
 
@@ -35,7 +35,7 @@ Die Reisekosten zwischen zwei Standorten ergeben sich aus einer unternehmensinte
 
 Für zwei Standorte \( i \) und \( j \) mit den Koordinaten \( (x_i, y_i) \) und \( (x_j, y_j) \) gelten die Kosten:
 
-![kostenfunktion.png](kostenfunktion.png)
+w(i,j) = xi * xj + yi * yj + 15
 
 
 ---
