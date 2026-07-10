@@ -33,9 +33,9 @@ Jeder Standort ist durch Koordinaten in einem zweidimensionalen Raum beschrieben
 
 Die Reisekosten zwischen zwei Standorten ergeben sich aus einer unternehmensinternen Bewertungsfunktion, die verschiedene Faktoren wie Entfernung, Infrastruktur und vertragliche Rahmenbedingungen abstrahiert.
 
-Für zwei Standorte \( i \) und \( j \) mit den Koordinaten \( (x_i, y_i) \) und \( (x_j, y_j) \) gelten die Kosten:
+Für zwei unterschiedliche Standorte \( i \) und \( j \) mit den Koordinaten \( (x<sub>i</sub>, y<sub>i</sub>) \) und \( (x<sub>j</sub>, y<sub>j</sub>) \) gelten die Kosten:
 
-w(i,j) = xi * xj + yi * yj + 15
+<p align="center">w(i,j) = x<sub>i</sub>  x<sub>j</sub> + y<sub>i</sub>  y<sub>j</sub> + 15</p>
 
 
 ---
